@@ -1,2 +1,2 @@
 # Filters-in-image-processing
-Here are the list of filters that we can use in python to make the images look better. 
+Filtering is a technique for modifying or enhancing an image. For example, you can filter an image to emphasize certain features or remove other features. Image processing operations implemented with filtering include smoothing, sharpening, and edge enhancement.
